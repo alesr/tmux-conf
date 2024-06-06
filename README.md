@@ -7,6 +7,9 @@ My tmux configuration
 ```bash
 mkdir -p ~/.config/tmux
 git clone https://github.com/alesr/tmux-conf.git ~/.config/tmux
+
+export TMUX_CONF=$HOME/.config/tmux/tmux.conf
+
 ```
 
 ## References
